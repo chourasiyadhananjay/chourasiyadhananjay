@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chourasiyadhananjay
-- 👀 I’m interested in web development
-- 🌱 I’m a full stack web developer
-- 💞️ I’m looking to collaborate on python and django based web applications
+- 👀 I’m an Experience IT Professional
+- 🌱 I like Yoga and Meditation
+- 💞️ I’m like collaborating on new projects, learning and gaining experience on demanding tools and technologies.
 - 📫 How to reach me github @chourasiyadhananjay
 
 <!---
