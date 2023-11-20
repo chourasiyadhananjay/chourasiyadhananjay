@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chourasiyadhananjay
-- 👀 I’m an Experience IT Professional
-- 🌱 I like Yoga and Meditation
-- 💞️ I’m like collaborating on new projects, learning and gaining experience on demanding tools and technologies.
+- 👀 I’m an Experience IT Professional.
+- 🌱 I’m like collaborating on new projects, learning and gaining experience on demanding tools and technologies.
+- 💞️ I like Yoga and Meditation.
 - 📫 How to reach me github @chourasiyadhananjay
 
 <!---
